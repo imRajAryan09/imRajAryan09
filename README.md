@@ -25,11 +25,11 @@
 
 <br/>
 
- - 🔭 Hi, I'm a first year CSE undergrad and based in India. I like exploring different domains and learn and apply as much as I can.
+ - 🔭 Hi, I'm a second year CSE undergrad and based in India. I am skilled in Python, Data Science and Machine Learning. I like exploring different domains and learn and apply as much as I can.
 
 I like making things beautiful and functional, with which users can interact easily. I'm just a beginner, and there is a lot left for me to learn. If I'll able to add some value to your life, I'll be more than happy.
- - Currently learning Deep learing using TensorFLow.
- - Interested in deep learning, data science, open source, and problem solving.
+ - Currently learning Deep Learning using TensorFLow.
+ - Interested in JavaScript, Flutter,Open Source, and Problem Solving.
  - Documnenting about my learning journey on <a href="https://www.linkedin.com/in/raj-aryan-982b81205/">LinkedIn </a> and <a href="https://twitter.com/CodeOrFade">Twitter. </a>
 
 
@@ -40,12 +40,12 @@ I like making things beautiful and functional, with which users can interact eas
 ## Skills 🤖
 
 <p align="center">
-  <code><img height="48" src="https://i.stack.imgur.com/PgcSR.png" /></code>
-  <code><img height="48" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" /></code>
-  <code><img height="48" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/dusk/50/000000/react.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
-  <code><img height="48" src="https://img.icons8.com/color/50/000000/material-ui.png" /></code>
+  <code><img height="48" src="https://image.flaticon.com/icons/png/512/2570/2570575.png" /></code>
+  <code><img height="48" src="https://image.flaticon.com/icons/png/512/2591/2591949.png" /></code>
+  <code><img height="48" src="https://img-premium.flaticon.com/png/512/3323/premium/3323033.png?token=exp=1629102182~hmac=760bbc7a72fee794a99477e74b2efee8" /></code>
+  <code><img height="48" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg" /></code>
+  <code><img height="48" src="https://image.flaticon.com/icons/png/512/2257/2257295.png" /></code>
+  <code><img height="48" src="https://img-premium.flaticon.com/png/512/3097/premium/3097993.png?token=exp=1629102182~hmac=33cc83b5c7afc782db233bc3edec6218" /></code>
 
 </p>
 
