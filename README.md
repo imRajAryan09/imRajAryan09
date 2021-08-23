@@ -50,8 +50,11 @@ I like making things beautiful and functional, with which users can interact eas
 </p>
 
 ## Stats 👨‍💻
-<p align="center"><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=imRajAryan09&show_icons=true&theme=radical&count_private=true'/>
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=radical&count_private=true'/></p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imRajAryan09&theme=tokyonight" />
+</p>
 
 <br />
 
