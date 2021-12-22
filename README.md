@@ -7,11 +7,14 @@
 <br />
 
 <p align="center">
+  <a href="https://twitter.com/CodeOrFade">
+    <img align="left" alt="Raj's Twitter" title="My Twitter" src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FCodeOrFade" />
+  </a>
   <a href="https://www.linkedin.com/in/raj-aryan-982b81205/">
     <img align="left" alt="Raj's LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-360-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/CodeOrFade">
-    <img align="left" alt="Raj's Twitter" title="My Twitter" src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FCodeOrFade" />
+  <a href="https://codepen.io/imrajaryan09">
+    <img align="left" alt="Raj's CodePen" title="My Twitter" src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/imrajaryan09)" />
   </a>
 <!--   <a href="https://devmudit.me/">
     <img align="left" alt="Mudit's website" title="My website" src="https://img.shields.io/badge/website-2962FF?style=for-the-badge&logo=website&logoColor=white" />
