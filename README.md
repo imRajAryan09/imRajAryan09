@@ -16,7 +16,7 @@
 - :seedling: &nbsp;I’m currently learning **[ExpressJS]**
 - :writing_hand: &nbsp;I regulary solve problems on **[Leetcode]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 - :art: &nbsp; I design stuff on **[Codepen]** 
