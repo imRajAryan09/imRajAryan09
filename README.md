@@ -1,67 +1,215 @@
-<h1 align="center">
-  Hi there, <br>
-  This is Raj Aryan 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
 
-<br />
+<!-- <p align="center">
+<img src="./code.gif"/>
+</p> -->
+<h2>Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="28"/></h2>
+<h1 align="left" id="rajaryan-title"> I'm Raj Aryan Mishra</h1>
+<h3 align="left">I am a second year CSE Undergrad at <a href="https://www.lpu.in/">LPU</a>, India</h3>
+<!-- <p align="center">
+<img src="./code.gif"/>
+</p> -->
+<a href="#rajaryan-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Raj Aryan" align="right" />
+</a>
 
-<p align="center">
-  <a href="https://twitter.com/CodeOrFade">
-    <img align="left" alt="Raj's Twitter" title="My Twitter" src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FCodeOrFade" />
-  </a>
-  <a href="https://www.linkedin.com/in/raj-aryan-982b81205/">
-    <img align="left" alt="Raj's LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-360-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://codepen.io/imrajaryan09">
-    <img align="left" alt="Raj's CodePen" title="My Twitter" src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/imrajaryan09)" />
-  </a>
-<!--   <a href="https://devmudit.me/">
-    <img align="left" alt="Mudit's website" title="My website" src="https://img.shields.io/badge/website-2962FF?style=for-the-badge&logo=website&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mudit023/">
-    <img align="left" alt="Mudit's Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
-</p>
+<!-- - :office: &nbsp;I'm currently working at **Nordstone UK** -->
+- :seedling: &nbsp;I’m currently learning **[ExpressJS]**
+- :writing_hand: &nbsp;I regulary solve problems on **[Leetcode]**
+- :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :bird: &nbsp;Let's talk more in **[Twitter]**
+- :art: &nbsp; I design stuff on **[Codepen]** 
 
-<br />
+<br>
+
+<h2 align="left" id="rajaryan-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+     <td align="center" width="96"> 
+      <a href="#rajaryan-tech" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#rajaryan-tech" >
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C Lang
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech" >
+        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center"  width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
+    <td align="center"  width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+      </a>
+      <br>Electron
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center"  width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+      </a>
+      <br>TailWind
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td>
+    <td align="center" width="96">
+      <a href="#rajaryan-tech">
+        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+     <td align="center" width="96"> 
+      <a href="#rajaryan-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+          <td align="center" width="96"> 
+      <a href="#rajaryan-tech" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+             <td align="center" width="96"> 
+      <a href="#rajaryan-tech" >
+        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>G Cloud
+    </td>
+  </tr>
+    
+</table>
+
+[linkedin]: https://www.linkedin.com/in/raj-aryan09 "LinkedIn"
+[twitter]: https://twitter.com/CodeOrFade "Twitter"
+[expressjs]: http://expressjs.com "ExpressJS"
+[codepen]: https://codepen.io/imrajaryan09 "Codepen"
+[leetcode]: https://leetcode.com/imRajAryan09 "Leetcode"
 
 
 <br/>
+<br/>
+<h3>My Generous Contributions</h3>
 
-🔭 Hi, I'm a second year CSE undergrad and based in India. I am skilled in Python, Data Science and Machine Learning. I like exploring different domains and learn and apply as much as I can.
-
-I like making things beautiful and functional, with which users can interact easily. I'm just a beginner, and there is a lot left for me to learn. If I'll able to add some value to your life, I'll be more than happy.
- - Currently learning Deep Learning using TensorFLow.
- - Interested in JavaScript, Flutter, Open Source and Problem Solving.
- - Documnenting about my learning journey on <a href="https://www.linkedin.com/in/raj-aryan-982b81205/">LinkedIn </a> and <a href="https://twitter.com/CodeOrFade">Twitter. </a>
-
-
-<br />
-<br />
-
-
-## Skills 🤖
-
-<p align="center">
-<!--   <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imRajAryan09&show_icons=true&theme=tokyonight" /> -->
-  <code><img height="48" src="https://image.flaticon.com/icons/png/512/2570/2570575.png" /></code>
-  <code><img height="48" src="https://image.flaticon.com/icons/png/512/2591/2591949.png" /></code>
-  <code><img height="48" src="https://img-premium.flaticon.com/png/512/3323/premium/3323033.png?token=exp=1629102182~hmac=760bbc7a72fee794a99477e74b2efee8" /></code>
-  <code><img height="48" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg" /></code>
-  <code><img height="48" src="https://image.flaticon.com/icons/png/512/2257/2257295.png" /></code>
-  <code><img height="48" src="https://img-premium.flaticon.com/png/512/3097/premium/3097993.png?token=exp=1629102182~hmac=33cc83b5c7afc782db233bc3edec6218" /></code>
-
-</p>
-
-## Stats 👨‍💻
-
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imRajAryan09&theme=tokyonight" />
-</p>
-
-<br />
-
-![](https://komarev.com/ghpvc/?username=imRajAryan09&style=flat-square&label=Profile+Visitors&color=blueviolet)
-
+![RajAryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=imRajAryan09&theme=react-dark)
