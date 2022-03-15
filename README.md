@@ -9,7 +9,7 @@
 <img src="./code.gif"/>
 </p> -->
 <a href="#rajaryan-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Raj Aryan" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imRajAryan09&theme=tokyonight" alt="Raj Aryan" align="right" />
 </a>
 
 <!-- - :office: &nbsp;I'm currently working at **Nordstone UK** -->
@@ -217,7 +217,9 @@
 <p align="center">
 	
 <!--   <img width="48%" height="30%" src="https://leetcode-stats-six.vercel.app/api?username=imRajAryan09&theme=dark" /> -->
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=imRajAryan09&theme=tokyonight" />
+	
+  <img  src="https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+	
 
 </p>
 <h3>My Generous Contributions</h3>
