@@ -13,7 +13,7 @@
 </a>
 
 <!-- - :office: &nbsp;I'm currently working at **Nordstone UK** -->
-- :seedling: &nbsp;I’m currently learning **[NextJS]**
+- :seedling: &nbsp;I’m currently learning **[Solidity]**
 - :writing_hand: &nbsp;I regulary solve problems on **[Leetcode]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :art: &nbsp; I design stuff on **[Codepen]** 
@@ -204,7 +204,7 @@
 
 [linkedin]: https://www.linkedin.com/in/raj-aryan09 "LinkedIn"
 [twitter]: https://twitter.com/CodeOrFade "Twitter"
-[nextjs]: https://nextjs.org/ "NextJS"
+[Solidity]: https://soliditylang.org "Solidity"
 [codepen]: https://codepen.io/imrajaryan09 "Codepen"
 [leetcode]: https://leetcode.com/imRajAryan09 "Leetcode"
 
