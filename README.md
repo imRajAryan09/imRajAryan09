@@ -4,7 +4,7 @@
 </p> -->
 <h2>Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="28"/></h2>
 <h1 align="left" id="rajaryan-title"> I'm Raj Aryan Mishra</h1>
-<h3 align="left">I am a second year CSE Undergrad at <a href="https://www.lpu.in/">LPU</a>, India</h3>
+<h3 align="left">I am a third year CSE Undergrad at <a href="https://www.lpu.in/">LPU</a>, India</h3>
 <!-- <p align="center">
 <img src="./code.gif"/>
 </p> -->
