@@ -17,7 +17,7 @@
 - :writing_hand: &nbsp;I regulary solve problems on **[Leetcode]**
 - :speech_balloon: &nbsp;I like to talk about **Backend Dev** and **Spring Boot**
 - :art: &nbsp; I write about stuff on **[HashNode]** 
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
+- :mailbox: &nbsp;Ask me about anything, I am happy to **[Help]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 
@@ -203,6 +203,7 @@
 </table>
 
 [Go]: https://go.dev "Go"
+[Help]: mrajaryan349@gmail.com "Help"
 [linkedin]: https://www.linkedin.com/in/raj-aryan09 "LinkedIn"
 [twitter]: https://twitter.com/datakabetaa "Twitter"
 [HashNode]: https://rajaryan.hashnode.dev "HashNode"
