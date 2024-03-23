@@ -225,7 +225,7 @@
 ## My Generous Contributions
 <br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imRajAryan09&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imRajAryan09&theme=tokyo-night" />
 </p>
 <br/>
 <br/>
