@@ -69,9 +69,9 @@
     </td>
     <td align="center" width="96">
       <a href="#rajaryan-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://logosandtypes.com/wp-content/uploads/2020/07/kafka.svg" width="48" height="48" alt="Kafka" />
       </a>
-      <br>Bootstrap
+      <br>Kafka
     </td>
     <td align="center" width="96">
       <a href="#rajaryan-tech">
@@ -81,7 +81,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#rajaryan-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
@@ -90,27 +90,27 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#rajaryan-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>C Lang
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#rajaryan-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center"  width="96">
       <a href="#rajaryan-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="48" height="48" alt="Java" />
       </a>
-      <br>Gatsby
+      <br>Java
     </td>
     <td align="center"  width="96">
       <a href="#rajaryan-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+        <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://blog.dreamfactory.com/wp-content/uploads/2016/09/redis.png" width="48" height="48" alt="Redis" />
       </a>
-      <br>Electron
+      <br>Redis
     </td>
     <td align="center" width="96">
       <a href="#rajaryan-tech">
@@ -138,15 +138,15 @@
     </td>
     <td align="center" width="96">
       <a href="#rajaryan-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2880px-Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>PHP
+      <br>AWS
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
       <a href="#rajaryan-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
@@ -164,9 +164,9 @@
     </td>
     <td align="center" width="96">
       <a href="#rajaryan-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="48" height="48" alt="Spring Boot" />
       </a>
-      <br>Tensorflow
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
       <a href="#suhailakar-tech">
@@ -176,7 +176,7 @@
     </td>
     <td align="center" width="96">
       <a href="#rajaryan-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+        <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
@@ -203,7 +203,7 @@
 </table>
 
 [linkedin]: https://www.linkedin.com/in/raj-aryan09 "LinkedIn"
-[twitter]: https://twitter.com/CodeOrFade "Twitter"
+[twitter]: https://twitter.com/datakabetaa "Twitter"
 [Solidity]: https://soliditylang.org "Solidity"
 [codepen]: https://codepen.io/imrajaryan09 "Codepen"
 [leetcode]: https://leetcode.com/imRajAryan09 "Leetcode"
