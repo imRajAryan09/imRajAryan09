@@ -13,10 +13,10 @@
 </a>
 
 <!-- - :office: &nbsp;I'm currently working at **Nordstone UK** -->
-- :seedling: &nbsp;I’m currently learning **[Go Lang](https://go.dev/)**
+- :seedling: &nbsp;I’m currently learning **[Go]**
 - :writing_hand: &nbsp;I regulary solve problems on **[Leetcode]**
 - :speech_balloon: &nbsp;I like to talk about **Backend Dev** and **Spring Boot**
-- :art: &nbsp; I design stuff on **[Codepen]** 
+- :art: &nbsp; I write about stuff on **[HashNode]** 
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
@@ -202,10 +202,10 @@
     
 </table>
 
+[Go]: https://go.dev "Go"
 [linkedin]: https://www.linkedin.com/in/raj-aryan09 "LinkedIn"
 [twitter]: https://twitter.com/datakabetaa "Twitter"
-[Solidity]: https://soliditylang.org "Solidity"
-[codepen]: https://codepen.io/imrajaryan09 "Codepen"
+[HashNode]: https://rajaryan.hashnode.dev "HashNode"
 [leetcode]: https://leetcode.com/imRajAryan09 "Leetcode"
 
 
@@ -215,11 +215,7 @@
 ## Github Stats
 <br/>
 <p align="center">
-	
-
   <img  src="https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-	
-
 </p>
 <h3>My Generous Contributions</h3>
 
