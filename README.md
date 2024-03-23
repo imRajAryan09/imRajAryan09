@@ -4,7 +4,7 @@
 </p> -->
 <h2>Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="28"/></h2>
 <h1 align="left" id="rajaryan-title"> I'm Raj Aryan Mishra</h1>
-<h3 align="left">I am a third year CSE Undergrad at <a href="https://www.lpu.in/">LPU</a>, India</h3>
+<h3 align="left">I am a final year CSE Undergrad at <a href="https://www.lpu.in/">LPU</a>, India</h3>
 <!-- <p align="center">
 <img src="./code.gif"/>
 </p> -->
@@ -13,9 +13,9 @@
 </a>
 
 <!-- - :office: &nbsp;I'm currently working at **Nordstone UK** -->
-- :seedling: &nbsp;I’m currently learning **[Solidity]**
+- :seedling: &nbsp;I’m currently learning **[Go Lang](https://go.dev/)**
 - :writing_hand: &nbsp;I regulary solve problems on **[Leetcode]**
-- :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
+- :speech_balloon: &nbsp;I like to talk about **Backend Dev** and **Spring Boot**
 - :art: &nbsp; I design stuff on **[Codepen]** 
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
