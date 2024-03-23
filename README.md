@@ -216,11 +216,17 @@
 ## Github Stats
 <br/>
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imRajAryan09&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
-<h3>My Generous Contributions</h3>
 
-![RajAryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=imRajAryan09&theme=react-dark)
+<br/>
+<br/>
+
+## My Generous Contributions
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imRajAryan09&theme=github" />
+</p>
 <br/>
 <br/>
 
