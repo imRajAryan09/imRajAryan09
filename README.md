@@ -1,13 +1,9 @@
 
-<!-- <p align="center">
-<img src="./code.gif"/>
-</p> -->
 <h2>Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="28"/></h2>
 <h1 align="left" id="rajaryan-title"> I'm Raj Aryan Mishra</h1>
 <h3 align="left">I am a final year CSE Undergrad at <a href="https://www.lpu.in/">LPU</a>, India</h3>
-<!-- <p align="center">
-<img src="./code.gif"/>
-</p> -->
+
+
 <a href="#rajaryan-title">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imRajAryan09&theme=tokyonight" alt="Raj Aryan" align="right" />
 </a>
@@ -230,7 +226,7 @@
 <br/>
 <br/>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={imRajAryan09}&animated=true" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&theme={dark}" alt="LeetCode Badges" />
 
 ![](https://komarev.com/ghpvc/?username=imRajAryan09&style=flat-square&label=Profile+Visitors&color=blueviolet)
 
