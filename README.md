@@ -222,13 +222,15 @@
 <br/>
 <br/>
 
-## My Generous Contributions
+## My Contributions
 <br/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imRajAryan09&theme=tokyo-night" />
 </p>
 <br/>
 <br/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={imRajAryan09}&animated=true" alt="LeetCode Badges" />
 
 ![](https://komarev.com/ghpvc/?username=imRajAryan09&style=flat-square&label=Profile+Visitors&color=blueviolet)
 
