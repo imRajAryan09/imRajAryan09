@@ -226,7 +226,7 @@
 <br/>
 <br/>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&theme={dark}" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={imRajAryan09}&theme={dark}" alt="LeetCode Badges" />
 
 ![](https://komarev.com/ghpvc/?username=imRajAryan09&style=flat-square&label=Profile+Visitors&color=blueviolet)
 
